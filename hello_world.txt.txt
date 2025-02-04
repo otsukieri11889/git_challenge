@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello,world！
 こんばんは、世界！
-=======
-Hello,world！
-こんばんは、世界！
->>>>>>> origin/main
+変更
